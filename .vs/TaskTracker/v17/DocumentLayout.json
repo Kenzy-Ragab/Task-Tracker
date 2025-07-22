@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jory\\source\\repos\\DevProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\screens\\addtaskscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:screens\\addtaskscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\screens\\deletetaskscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:screens\\deletetaskscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\services\\taskstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:services\\taskstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\screens\\viewtasksscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:screens\\viewtasksscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\screens\\updatetaskscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:screens\\updatetaskscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\screens\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:screens\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|c:\\users\\jory\\source\\repos\\devprojects\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA85D6-EB4E-4D2C-92B8-18992567164A}|TaskTracker.csproj|solutionrelative:helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Services\\TaskStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskStorageService.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Services\\TaskStorageService.cs",
+              "RelativeToolTip": "Services\\TaskStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:53:08.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\MainScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\MainScreen.cs",
+              "RelativeToolTip": "Screens\\MainScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:59:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteTaskScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\DeleteTaskScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\DeleteTaskScreen.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\DeleteTaskScreen.cs",
+              "RelativeToolTip": "Screens\\DeleteTaskScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:50:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateTaskScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\UpdateTaskScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\UpdateTaskScreen.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\UpdateTaskScreen.cs",
+              "RelativeToolTip": "Screens\\UpdateTaskScreen.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:38:10.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewTasksScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\ViewTasksScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\ViewTasksScreen.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\ViewTasksScreen.cs",
+              "RelativeToolTip": "Screens\\ViewTasksScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:19:52.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTaskScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\AddTaskScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\AddTaskScreen.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Screens\\AddTaskScreen.cs",
+              "RelativeToolTip": "Screens\\AddTaskScreen.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:12:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "Helpers\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:06:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:55:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Models\\TaskModel.cs",
+              "RelativeToolTip": "Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:51:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jory\\source\\repos\\DevProjects\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:19:43.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
