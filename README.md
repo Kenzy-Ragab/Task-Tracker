@@ -95,7 +95,8 @@ TaskTracker/
 
 ---
 
-## 🤍 Author
+## 🤍 General Task Outline in DevUnion (Student Activity)  
+[Link to Task Outline (Notion)](https://saranabih.notion.site/Task-1-228f54958733801384e0e75fc019d30a) 
 
 Made with ❤️ by **Kenzy Ragab**  
 Feel free to **fork**, **use**, or **contribute** to the project.
